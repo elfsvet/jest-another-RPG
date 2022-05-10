@@ -15,4 +15,4 @@ test('creates a random potion object', () => {
     expect(potion.value).toEqual(expect.any(Number));
   });
 // left at 10.1.7
-// we should have health, agulity and strength
+// we should have health, agulity and strength and strenght
